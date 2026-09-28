@@ -191,7 +191,7 @@ I especially enjoy projects where **design, technology and real-world usefulness
   <a href="https://sbstudio07.github.io/Introfolio2.0/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/suman-bhattacharya-b30871435/">
+  <a href="https://www.linkedin.com/in/sumancodex/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sumanbhattacharya.info@gmail.com">
