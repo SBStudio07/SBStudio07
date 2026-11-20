@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Suman Bhattacharya
 
-### 💻 CSE Undergraduate @ HITK '30 • Web Developer • Builder
+### 💻 IT Undergraduate @ JGEC '30 • Web Developer • Builder
 
-I'm **Suman Bhattacharya**, a **Computer Science & Engineering undergraduate at Heritage Institute of Technology, Kolkata (HITK), graduating in 2030**.
+I'm **Suman Bhattacharya**, a **Information Technology undergraduate at Jalpaiguri Government Engineering College, Jalpaiguri (JGEC), graduating in 2030**.
 
 I enjoy building web applications, experimenting with new technologies, designing interfaces, and turning random ideas into working projects.
 
@@ -12,7 +12,7 @@ I enjoy building web applications, experimenting with new technologies, designin
 
 ## 🧑‍💻 About Me
 
-* 🎓 **B.Tech CSE @ Heritage Institute of Technology, Kolkata**
+* 🎓 **B.Tech IT @ Jalpaiguri Government Engineering College, Jalpaiguri**
 * 📅 **Class of 2030**
 * 🌐 Interested in **Web Development, Software Engineering & AI**
 * 🧠 Currently improving **DSA, JavaScript, React & Backend Development**
