@@ -46,15 +46,34 @@ I enjoy building web applications, experimenting with new technologies, designin
 
 `DSA` • `React.js` • `Node.js` • `APIs` • `Backend Development` • `AI/ML`
 
----
-
 # 🚀 Featured Projects
+
+## 🌱 HydroPhonics
+
+### AI-Powered Aquaponics Intelligence Platform
+
+An intelligent aquaponics monitoring and decision-support platform designed to help farmers monitor system conditions, detect anomalies, analyze trends, and make informed decisions through AI-powered insights.
+
+**Features & Concepts**
+
+* 📡 Real-time IoT monitoring
+* 💧 Water quality & environmental analytics
+* 🚨 Anomaly detection & early-warning alerts
+* 📈 Historical data analysis & predictive insights
+* 🌿 Plant-health monitoring using computer vision
+* 🤖 AI-powered agricultural assistance
+* 🎙️ Conversational voice interface & multilingual support
+* 🔬 Hydro-acoustic diagnostics research
+
+**Tech:** `React` `JavaScript` `IoT` `Gemini API` `Computer Vision` `AI/ML` `APIs`
+
+---
 
 ## 🌦️ WeatherGPT
 
-### Conversational AI for Weather & Climate Information
+### Conversational AI for Weather & Climate Intelligence
 
-An AI-powered weather platform designed to make meteorological information easier to access, understand and interact with.
+An AI-driven weather platform designed to make weather information, forecasts, alerts, and climate insights more accessible through natural-language interaction.
 
 **Features & Concepts**
 
@@ -72,24 +91,26 @@ An AI-powered weather platform designed to make meteorological information easie
 
 ## 📚 JEE PYQs Practice Platform
 
-An open-source practice platform built around **JEE Main & JEE Advanced previous-year questions**.
+An interactive practice platform built around **JEE Main & JEE Advanced previous-year questions**, designed to provide a structured exam-preparation experience.
 
-### Features
+**Features**
 
 * 📖 Subject-wise question banks
-* 🧪 Practice sets
-* ➕ +4 / -1 scoring
-* ⏭️ Next / Previous navigation
-* 📊 Test statistics
+* 🧪 Multiple practice sets
+* ➕ +4 / -1 scoring system
+* ⏭️ Next / Previous question navigation
+* 📊 Performance statistics
 * 🎯 Exam-style practice experience
 
 **Tech:** `HTML` `CSS` `JavaScript`
 
 ---
 
-## 🚗 Faucon Automotive Website
+## 🚗 Faucon Automotive
 
-A complete automotive website concept featuring a structured multi-section layout for a fictional automotive company.
+### Automotive Website Concept
+
+A complete website concept for a fictional automotive brand, featuring a modern, multi-section interface and responsive design.
 
 **Includes**
 
@@ -105,18 +126,17 @@ A complete automotive website concept featuring a structured multi-section layou
 
 ---
 
-## 🛒 Amazon Clone
+## 🛒 Amazon India Clone
 
-A frontend recreation inspired by the **Amazon India** website.
+A frontend recreation inspired by the **Amazon India** website, built to explore real-world e-commerce UI patterns and frontend development.
 
-Built to understand:
+**Built to explore**
 
-* Layout systems
-* Responsive design
-* Navigation
-* Product cards
-* UI interactions
-* E-commerce page structure
+* 🎨 UI design & layout systems
+* 📱 Responsive design
+* 🧭 Navigation & interactions
+* 🛍️ Product cards & listings
+* 🏗️ E-commerce page structure
 
 **Status:** `~90% Complete`
 
