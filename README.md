@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Suman Bhattacharya
 
-### 💻 IT Undergraduate @ JGEC '30 • Web Developer • Builder
+### 💻 IT Undergraduate @ JGEC '30 • Competative Programmer • Developer
 
 I'm **Suman Bhattacharya**, an **Information Technology undergraduate at Jalpaiguri Government Engineering College, Jalpaiguri (JGEC), graduating in 2030**.
 
